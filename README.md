@@ -17,23 +17,28 @@ The software allows the user's to add, edit or remove a product from a store. Us
 ![alt tag](https://github.com/Afaq1/Till-Software/blob/master/Images/3.PNG)
 
 <h3>Purcahse form</h3>
-"Check Stock> button allow the user to check the product details. "Quantity" combo box allow the user to select the quantity. "Calculate" textbox show the total of select product. "Add to Basket" will add the selcted product in basket. "Purcahse" button allow the user to make the purchase. "Reset" button delete the product from the basket. 
+"Check Stock> button allow the user to check the product details. "Quantity" combo box allow the user to select the quantity. "Calculate" textbox show the total of select product. "Add to Basket" will add the selcted product in basket. "Purcahse" button allow the user to make the purchase. "Reset" button delete the product from the basket.
+
+![alt tag](https://github.com/Afaq1/Till-Software/blob/master/Images/4.PNG)
 
 <h3>Confiramtion message</h3>
 Confirmation message came when user select the "Purchase" button in the "Purchase Form".
+
+![alt tag](https://github.com/Afaq1/Till-Software/blob/master/Images/6.PNG)
+
 <h3>Login Form</h3>
 "Login" form will appear when user click on "Update Stock" button in "Main menu" form. "Login" button will open a new form which allow the user to add or edit the product. "Main Menu" button will open the "Main form".
 
-![alt tag](https://github.com/Afaq1/Till-Software/blob/master/Images/4.PNG)
+![alt tag](https://github.com/Afaq1/Till-Software/blob/master/Images/7.PNG)
 
 <h3>UpdateStock Form</h3>
 "Update Stock" form appear when user clicks on login button in "Login" form. "Add" Button will open another form which allow the user to add a new product. "Edit" button allows the user to edit or remove the product. 
 
-![alt tag](https://github.com/Afaq1/Till-Software/blob/master/Images/6.PNG)
-
-![alt tag](https://github.com/Afaq1/Till-Software/blob/master/Images/7.PNG)
-
 ![alt tag](https://github.com/Afaq1/Till-Software/blob/master/Images/8.PNG)
+
+
+
+
 
 ![alt tag](https://github.com/Afaq1/Till-Software/blob/master/Images/9.PNG)
 
