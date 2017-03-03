@@ -36,14 +36,18 @@ Confirmation message came when user select the "Purchase" button in the "Purchas
 
 ![alt tag](https://github.com/Afaq1/Till-Software/blob/master/Images/8.PNG)
 
-
-
-
+<h3>New Stock Form</h3>
+This form allow the user to add new products. "Browse" button allow the user to add image for the product. "Add" button allow the user to add the product in database. 
 
 ![alt tag](https://github.com/Afaq1/Till-Software/blob/master/Images/9.PNG)
 
+<h3>Choose Image</h3>
+This dialog box allow the user to select the image for the product. 
+
 ![alt tag](https://github.com/Afaq1/Till-Software/blob/master/Images/10.PNG)
 
+<h3>Stock Edit</h3>
+This form allow the user to edit by clicking "Update" button and delete the existing product by clicking "Delete" buutton.
 ![alt tag](https://github.com/Afaq1/Till-Software/blob/master/Images/11.PNG)
 
 
