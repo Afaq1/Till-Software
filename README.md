@@ -2,6 +2,16 @@
 The software allows the user's to add, edit or remove a product from a store. User can make purchases. JavaDB used to store the data of the program. 
 
 ![alt tag](https://github.com/Afaq1/Till-Software/blob/master/Images/1.PNG)
+![alt tag](https://github.com/Afaq1/Till-Software/blob/master/Images/2.PNG)
+![alt tag](https://github.com/Afaq1/Till-Software/blob/master/Images/3.PNG)
+![alt tag](https://github.com/Afaq1/Till-Software/blob/master/Images/4.PNG)
+![alt tag](https://github.com/Afaq1/Till-Software/blob/master/Images/5.PNG)
+![alt tag](https://github.com/Afaq1/Till-Software/blob/master/Images/6.PNG)
+![alt tag](https://github.com/Afaq1/Till-Software/blob/master/Images/7.PNG)
+![alt tag](https://github.com/Afaq1/Till-Software/blob/master/Images/8.PNG)
+![alt tag](https://github.com/Afaq1/Till-Software/blob/master/Images/9.PNG)
+![alt tag](https://github.com/Afaq1/Till-Software/blob/master/Images/10.PNG)
+![alt tag](https://github.com/Afaq1/Till-Software/blob/master/Images/11.PNG)
 
 <h2>Disclaimer</h2>
 
