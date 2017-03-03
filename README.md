@@ -7,16 +7,17 @@ The software allows the user's to add, edit or remove a product from a store. Us
 ![alt tag](https://github.com/Afaq1/Till-Software/blob/master/Images/1.PNG)
 
 <h3>Check Stock form</h3>
-"All data" button will open the catalogue which has all the information of product. <Main Menu> button will open the Main form. <Check> button, if user type the product number and click the button, then product information will appear in the below text box and picture will come on the right side of the text box.
+"All data" button will open the catalogue which has all the information of product. "Main Menu" button will open the Main form. "Check" button, if user type the product number and click the button, then product information will appear in the below text box and picture will come on the right side of the text box.
 
 ![alt tag](https://github.com/Afaq1/Till-Software/blob/master/Images/2.PNG)
 
 <h3>Catalogue form</h3>
-<Catalogue> form appear when user click the <All Data> button in <Check Stock> form.
+"Catalogue" form appear when user click the "All Data" button in "Check Stock" form. "Quantity" combo box allow the user to select the quantity. "Calculate" textbox show the total of select product. 
+
 ![alt tag](https://github.com/Afaq1/Till-Software/blob/master/Images/3.PNG)
 
 <h3>Purcahse form</h3>
-
+"Check Stock> button allow the user to check the product details. "Quantitiy" button allows  
 ![alt tag](https://github.com/Afaq1/Till-Software/blob/master/Images/4.PNG)
 
 ![alt tag](https://github.com/Afaq1/Till-Software/blob/master/Images/6.PNG)
