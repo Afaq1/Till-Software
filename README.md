@@ -1,6 +1,9 @@
 # Till-Software
 The software allows the user's to add, edit or remove a product from a store. User can make purchases. JavaDB used to store the data of the program. 
 
+<h2>Functional Requirment</h2>
+1. Seach a product using product key.
+
 <h3>MainMenu form</h3>
 "Check Stock" allows the user to see the existed product details. "Purchase Item" button allow the user to make purchases. "Update Stock" button allows the user to add a new product and edit or remove an existed product. "Exit" button will close the application.
 
