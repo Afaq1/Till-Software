@@ -26,6 +26,7 @@ Confirmation message came when user select the "Purchase" button in the "Purchas
 
 ![alt tag](https://github.com/Afaq1/Till-Software/blob/master/Images/4.PNG)
 
+<h3>UpdateStock Form</h3>
 "Update Stock" form appear when user clicks on login button in "Login" form. "Add" Button will open another form which allow the user to add a new product. "Edit" button allows the user to edit or remove the product. 
 
 ![alt tag](https://github.com/Afaq1/Till-Software/blob/master/Images/6.PNG)
