@@ -3,6 +3,17 @@ The software allows the user's to add, edit or remove a product from a store. Us
 
 <h2>Functional Requirment</h2>
 1. Seach a product using product key.
+2. Allow the user to make purchases.
+3. Add a new product
+4. Edit an existed product
+5. Delete an existed product
+
+<h2>Additional Functional Requirment</h2>
+1. Add, edit or delete a product form must be protected with the password
+2. User can see the image of the product
+3. Show all the product using catalogue.
+4. User can add or edit the image for the product
+5. Product data should be stored in database using JavaDB
 
 <h3>MainMenu form</h3>
 "Check Stock" allows the user to see the existed product details. "Purchase Item" button allow the user to make purchases. "Update Stock" button allows the user to add a new product and edit or remove an existed product. "Exit" button will close the application.
